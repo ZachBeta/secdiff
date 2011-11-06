@@ -8,8 +8,9 @@ f.write(parsed)
 f.close
 
 doc = Nokogiri::XML(open('hig-20110331.xml'))
-doc = Nokogiri::HTML(open("http://www.sec.gov/Archives/edgar/data/1486800/000148680011000035/form10q.htm"))
-parsed = doc.xpath("")
+doc = Nokogiri::HTML("http://www.sec.gov/Archives/edgar/data/1486800/000148680011000035/form10q.htm")
+parsed = doc.xpath("//a[@name='PartIItem2']")
+
 f = File.new("./out1.xml", "r+")
 f.write(parsed)
 f.close

@@ -9,7 +9,8 @@ class HomeController < ApplicationController
     }
   
     raise "Response was not 200, response was #{the_response.code}" if the_response.code != "200"
-    return the_response.body       
+    coder = HTMLEntities.new
+    return coder.decode(coder.decode(the_response.body))
   end
   
   def index
@@ -19,6 +20,9 @@ class HomeController < ApplicationController
   end
   
   def results
+    
+    Nokogiri::
+    
     @response1 = get_html_content("http://www.sec.gov/Archives/edgar/data/1486800/000148680011000035/form10q.htm")
     @response2 = get_html_content("http://www.sec.gov/Archives/edgar/data/1486800/000119312510255373/d10q.htm")
     respond_to do |format|

@@ -3,6 +3,9 @@ source 'http://rubygems.org'
 require "uri"
 require "net/http"
 
+require 'htmlentities'
+gem 'nokogiri'
+
 gem 'rails', '3.1.1'
 
 # Bundle edge Rails instead:
