@@ -1,5 +1,0 @@
-gem 'libxml-ruby', '>= 0.8.3'
-require 'xml'
-
-parser = XML::Parser.file('hig-20101231.xml')
-doc = parser.parse
