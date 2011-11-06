@@ -1,5 +1,8 @@
 source 'http://rubygems.org'
 
+require "uri"
+require "net/http"
+
 gem 'rails', '3.1.1'
 
 # Bundle edge Rails instead:
