@@ -20,11 +20,11 @@ class HomeController < ApplicationController
   end
   
   def results
+    url1 = params[:url1]
+    url2 = params[:url2]
     
-    Nokogiri::
-    
-    @response1 = get_html_content("http://www.sec.gov/Archives/edgar/data/1486800/000148680011000035/form10q.htm")
-    @response2 = get_html_content("http://www.sec.gov/Archives/edgar/data/1486800/000119312510255373/d10q.htm")
+    @response1 = get_html_content(url1)
+    @response2 = get_html_content(url2)
     respond_to do |format|
       format.html
     end
