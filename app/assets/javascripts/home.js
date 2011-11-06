@@ -9,3 +9,4 @@ $(document).ready(function() {
 	var out=d.diff_prettyHtml(diffs);
 	$('#content').html(out);
 });
+ 
