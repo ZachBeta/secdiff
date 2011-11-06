@@ -1,0 +1,2726 @@
+   10-Q 1 form10q.htm HIGHER ONE HOLDINGS, INC. FORM 10Q
+
+
+                                UNITED STATES
+
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                           WASHINGTON, D.C. 20549
+
+
+
+
+                                  FORM 10-Q
+
+   (Mark One)
+   x
+   QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES
+   EXCHANGE ACT OF 1934
+   For the quarterly period ended June 30, 2011.
+
+                                     or
+
+
+   ¨
+   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+   EXCHANGE ACT OF 1934
+   For the transition period from              to             .
+
+                      Commission File Number: 001-34779
+
+
+
+
+                          HIGHER ONE HOLDINGS, INC.
+
+            (Exact Name of Registrant as Specified in its Charter)
+
+
+
+
+
+                                  Delaware
+
+
+                                 26-3025501
+
+                       (State or Other Jurisdiction of
+
+                       Incorporation or Organization)
+
+
+                              (I.R.S. Employer
+
+                             Identification No.)
+
+                               25 Science Park
+
+                             New Haven, CT 06511
+
+             (Address of Principal Executive Offices)(Zip Code)
+
+                               (203) 776-7776
+
+            (Registrant's Telephone Number, Including Area Code)
+
+                                     N/A
+
+    (Former Name, Former Address and Former Fiscal Year, If Changes Since
+                                Last Report)
+
+
+
+
+   Indicate by check mark whether the registrant (1) has filed all reports
+   required to be filed by Section 13 or 15(d) of the Securities Exchange
+   Act of 1934 during the preceding 12 months (or for such shorter period
+   that the registrant was required to file such reports), and (2) has
+   been subject to such filing requirements for the past 90 days.    Yes
+   x     No   ¨
+   Indicate by check mark whether the registrant has submitted
+   electronically and posted on its corporate Web site, if any, every
+   Interactive Data File required to be submitted and posted pursuant to
+   Rule 405 of Regulation S-T (§232.405 of this chapter) during the
+   preceding 12 months (or for such shorter period that the registrant was
+   required to submit and post such files).    Yes   x    No   ¨
+   Indicate by check mark whether the registrant is a large accelerated
+   filer, an accelerated filer, non-accelerated filer or a smaller
+   reporting company. See the definitions of "large accelerated filer,"
+   "accelerated filer" or "smaller reporting company" in Rule 12b-2 of the
+   Exchange Act (Check one).
+
+   Large accelerated filer
+
+   ¨
+
+   Accelerated filer
+
+   ¨
+
+   Non-accelerated filer
+
+   x  (Do not check if a smaller reporting company)
+
+   Smaller reporting company
+
+   ¨
+   Indicate by check mark whether the registrant is a shell company (as
+   defined in Rule 12b-2 of the Exchange Act).    Yes  ¨    No  x
+   As of July 29, 2011 there were 57,087,888 shares of common stock, par
+   value $0.001 per share, outstanding.
+
+
+
+     __________________________________________________________________
+
+
+
+                          HIGHER ONE HOLDINGS, INC.
+
+                        INDEX TO REPORT ON FORM 10-Q
+
+                       FOR QUARTER ENDED JUNE 30, 2011
+
+                                                                      Page
+
+   [1]PART I - FINANCIAL INFORMATION
+
+                                                                      [2]2
+
+   [3]Item 1.
+   [4]Financial Statements (unaudited)
+
+                                                                      [5]2
+
+     [6]Condensed Consolidated Balance Sheets as of December 31, 2010 and
+   June 30, 2011 [7]2
+     [8]Condensed Consolidated Statements of Operations for the Three and
+   Six Months Ended June 30, 2010 and 2011 [9]3
+     [10]Condensed Consolidated Statement of Changes in Stockholders'
+   Equity for the Six Months Ended June 30, 2011 [11]4
+     [12]Condensed Consolidated Statements of Cash Flows for the Six
+   Months Ended June 30, 2010 and 2011  [13]5
+     [14]Notes to Condensed Consolidated Financial Statements  [15]6
+   [16]Item 2.
+   [17]Management's Discussion and Analysis of Financial Condition and
+   Results of Operations
+
+                                                                    [18]12
+
+   [19]Item 3.
+   [20]Quantitative and Qualitative Disclosures About Market Risk
+
+                                                                    [21]25
+
+   [22]Item 4.
+   [23]Controls and Procedures
+
+                                                                    [24]26
+
+   [25]PART II - OTHER INFORMATION
+
+                                                                    [26]26
+
+   [27]Item 1.
+   [28]Legal Proceedings
+
+                                                                    [29]26
+
+   [30]Item 1A.
+   [31]Risk Factors
+
+                                                                    [32]27
+
+   [33]Item 2.
+   [34]Unregistered Sales of Equity Securities and Use of Proceeds
+
+                                                                    [35]28
+
+   [36]Item 3.
+   [37]Defaults Upon Senior Securities
+
+                                                                    [38]29
+
+   [39]Item 5.
+   [40]Other Information
+
+                                                                    [41]29
+
+   [42]Item 6.
+   [43]Exhibits
+
+                                                                    [44]29
+
+
+   [45]Signatures
+
+                                                                    [46]30
+
+
+   As used herein, the terms "we," "us," "our" or "Higher One," unless the
+   context otherwise requires, mean Higher One Holdings, Inc. and its
+   subsidiaries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   -1-
+     __________________________________________________________________
+
+   [47]Table of Contents
+
+                       PART I - FINANCIAL INFORMATION
+
+   Item 1.                                Financial Statements (unaudited)
+
+                          Higher One Holdings, Inc.
+
+                    Condensed Consolidated Balance Sheets
+
+        (In thousands of dollars, except share and per share amounts)
+
+                                 (unaudited)
+
+
+                                December 31,
+
+
+                                  June 30,
+
+
+
+                                    2010
+
+
+                                    2011
+
+
+
+   Assets
+
+   Current assets:
+
+   Cash and cash equivalents
+     $ 34,484     $ 50,473
+   Investments in marketable securities
+       14,697       16,884
+   Accounts receivable
+       2,622       5,330
+   Income receivable
+       3,719       3,407
+   Deferred tax assets
+       48       41
+   Prepaid expenses and other current assets
+       6,981       7,432
+   Restricted cash
+       8,250       -
+   Total current assets
+       70,801       83,567
+   Deferred costs
+       3,782       3,447
+   Fixed assets, net
+       9,919       18,890
+   Intangible assets, net
+       18,456       16,921
+   Goodwill
+       15,830       15,830
+   Other assets
+       653       542
+   Deferred tax assets
+       -       762
+   Restricted cash
+       -       1,075
+   Total assets
+     $ 119,441     $ 141,034
+
+   Liabilities and Stockholders' Equity
+
+   Current liabilities:
+
+   Accounts payable
+     $ 3,063     $ 3,473
+   Accrued expenses
+       11,786       13,948
+   Acquisition payable
+       8,250       -
+   Deferred revenue
+       7,974       10,573
+   Total current liabilities
+       31,073       27,994
+   Deferred revenue
+       2,051       2,217
+   Deferred tax liabilities
+       2,926       -
+   Total liabilities
+       36,050       30,211
+   Commitments and contingencies (Note 7)
+
+
+   Stockholders' equity:
+
+       Common stock, $.001 par value; 200,000,000 shares authorized;
+   56,109,234 and 56,763,635 shares issued and outstanding at December 31,
+   2010 and June 30, 2011, respectively;
+       56       57
+   Additional paid-in capital
+       136,760       148,395
+   Accumulated deficit, net of 2008 $93,933 of stock tender transaction
+       (53,425 )     (37,629 )
+   Total stockholders' equity
+       83,391       110,823
+   Total liabilities and stockholders' equity
+     $ 119,441     $ 141,034
+
+
+
+        See notes to these unaudited condensed consolidated financial
+                                 statements.
+
+
+
+
+   -2-
+     __________________________________________________________________
+
+   [48]Table of Contents
+
+
+                          Higher One Holdings, Inc.
+
+               Condensed Consolidated Statements of Operations
+
+        (In thousands of dollars, except share and per share amounts)
+
+                                 (unaudited)
+
+
+
+                                Three Months
+
+
+                                 Six Months
+
+
+
+                               Ended June 30,
+
+
+                               Ended June 30,
+
+
+
+                                    2010
+
+
+                                    2011
+
+
+                                    2010
+
+
+                                    2011
+
+
+   Revenue:
+
+   Account revenue
+     $ 21,732     $ 27,701     $ 53,474     $ 69,700
+   Payment transaction revenue
+       2,671       3,080       6,515       7,385
+   Higher education institution revenue
+       2,744       3,725       5,421       8,101
+   Other revenue
+       603       561       1,210       1,264
+   Total revenue
+       27,750       35,067       66,620       86,450
+   Cost of revenue
+       10,399       13,423       22,938       30,856
+   Gross margin
+       17,351       21,644       43,682       55,594
+   Operating expenses:
+
+   General and administrative
+       7,784       9,015       15,583       18,787
+   Product development
+       793       895       1,762       1,680
+   Sales and marketing
+       5,516       6,701       9,420       12,165
+   Total operating expenses
+       14,093       16,611       26,765       32,632
+   Income from operations
+       3,258       5,033       16,917       22,962
+   Interest income
+       2       11       3       36
+   Interest expense
+       (247 )     (56 )     (476 )      (130 )
+   Other income
+       -       1,500       -       1,500
+   Net income before income taxes
+       3,013       6,488       16,444       24,368
+   Income tax expense
+       1,183       1,734       6,350       8,572
+   Net income
+     $ 1,830     $ 4,754     $ 10,094     $ 15,796
+
+
+   Net income available to common stockholders:
+
+   Basic
+     $ 532     $ 4,754     $ 2,520     $ 15,796
+   Participating Securities
+       1,298       -       7,574       -
+   Diluted
+     $ 1,830     $ 4,754     $ 10,094     $ 15,796
+
+   Weighted average shares outstanding
+
+       Basic
+       14,518,962       55,117,635       12,333,141       54,859,367
+       Diluted
+       55,687,536       59,718,105       55,267,583       59,645,471
+
+   Net income available to common stockholders per common share:
+
+   Basic
+     $ 0.04     $ 0.09     $ 0.20     $ 0.29
+   Diluted
+     $ 0.03     $ 0.08     $ 0.18     $ 0.26
+
+
+
+        See notes to these unaudited condensed consolidated financial
+                                 statements.
+
+
+
+
+
+
+   -3-
+     __________________________________________________________________
+
+   [49]Table of Contents
+
+                          Higher One Holdings, Inc.
+
+     Condensed Consolidated Statement of Changes in Stockholders' Equity
+
+                   (In thousands of dollars, except shares)
+
+                                 (unaudited)
+
+
+
+
+                                 Additional
+
+
+                                    Total
+
+
+
+                                Common Stock
+
+
+                                   Paid-in
+
+
+                                 Accumulated
+
+
+                                Stockholders'
+
+
+
+                                   Shares
+
+
+                                   Amount
+
+
+                                   Capital
+
+
+                                   Deficit
+
+
+                                   Equity
+
+
+   Balance at December 31, 2010
+       56,109,234     $ 56     $ 136,760     $ (53,425 )   $ 83,391
+   Stock-based compensation
+       -       -       2,160       -       2,160
+   Stock-based customer acquisition expense
+       -       -       6,935       -       6,935
+   Tax benefit related to options
+       -       -       1,878       -       1,878
+   Exercise of stock options
+       654,401       1       662       -       663
+   Net income
+       -       -       -       15,796       15,796
+   Balance at June 30, 2011
+       56,763,635     $ 57     $ 148,395     $ (37,629 )   $ 110,823
+
+
+
+
+
+
+        See notes to these unaudited condensed consolidated financial
+                                 statements.
+
+
+
+
+
+   -4-
+     __________________________________________________________________
+
+   [50]Table of Contents
+
+                          Higher One Holdings, Inc.
+
+               Condensed Consolidated Statements of Cash Flows
+
+                          (In thousands of dollars)
+
+                                 (unaudited)
+
+
+
+                              Six Months Ended
+
+
+
+                                  June 30,
+
+
+
+                                    2010
+
+
+                                    2011
+
+
+   Cash flows from operating activities
+
+   Net income
+     $ 10,094     $ 15,796
+   Adjustments to reconcile net income to net cash  provided by operating
+   activities:
+
+   Depreciation and amortization
+       3,373       3,434
+   Amortization of deferred finance costs
+       102       36
+   Non-cash interest expense
+       240       -
+   Stock-based customer acquisition expense
+       4,866       6,935
+   Stock-based compensation
+       1,541       2,160
+   Deferred income taxes
+       (2,354 )     (3,681 )
+   Gain on litigation settlement agreement
+       -       (1,500 )
+   Loss on disposal of fixed assets
+       -       107
+   Changes in operating assets and liabilities:
+
+   Accounts receivable
+       (1,851 )     (2,708 )
+   Income receivable
+       (132 )     312
+   Deferred costs
+       (1,321 )     (367 )
+   Prepaid expenses and other current assets
+       (3,524 )     (451 )
+   Other assets
+       (532 )     75
+   Accounts payable
+       2,642       410
+   Accrued expenses
+       555       (1,417 )
+   Deferred revenue
+       3,495       2,765
+   Net cash provided by operating activities
+       17,194       21,906
+   Cash flows from investing activities
+
+   Purchases of available for sale investment securities
+       -       (7,787 )
+   Proceeds from sales and maturities of available for sale investment
+   securities
+       -       5,600
+   Purchases of fixed assets, net of changes in construction payables of
+   $0 and $3,494, respectively
+       (2,415 )     (6,696 )
+   Payment to escrow agent
+       (8,250 )     (1,075 )
+   Proceeds from escrow agent
+       -       1,500
+   Payment of acquisition payable
+       (1,750 )     -
+   Acquisition of Informed Decisions Corporation, net of cash acquired
+       9       -
+   Net cash used in investing activities
+       (12,406 )     (8,458 )
+   Cash flows from financing activities
+
+   Repayment of capital lease obligations
+       (6 )     -
+   Proceeds from line of credit
+       4,000       -
+   Repayments of line of credit
+       (22,000 )     -
+   Proceeds from issuance of common stock, net of issuance costs
+       37,756       -
+   Tax benefit related to stock options
+       1,598       1,878
+   Proceeds from exercise of stock options
+       393       663
+   Net cash provided by financing activities
+       21,741       2,541
+   Net change in cash and cash equivalents
+       26,529       15,989
+   Cash and cash equivalents at beginning of period
+       3,339       34,484
+   Cash and cash equivalents at end of period
+     $ 29,868     $ 50,473
+
+        See notes to these unaudited condensed consolidated financial
+                                 statements.
+
+
+
+
+
+   -5-
+     __________________________________________________________________
+
+   [51]Table of Contents
+
+                          Higher One Holdings, Inc.
+
+            Notes to Condensed Consolidated Financial Statements
+
+                                 (unaudited)
+
+                                    1.
+   Nature of Business and Organization
+   Higher One Holdings, Inc. is incorporated in Delaware and provides a
+   comprehensive suite of disbursement and payment solutions specifically
+   designed for higher education institutions and their students. We have
+   developed proprietary software-based solutions to provide these
+   services.  We have one wholly-owned subsidiary, Higher One, Inc., or
+   HOI, which has three wholly-owned subsidiaries: Higher One Machines,
+   Inc., or HOMI; Higher One Payments, Inc., or HOPI; and Higher One Real
+   Estate, Inc., or Real Estate Inc. Real Estate Inc has one wholly-owned
+   subsidiary, Higher One Real Estate SP, LLC, or Real Estate LLC. HOMI
+   owns and manages our cash disbursement machines and home-based customer
+   service agent services. HOPI is the acquired entity formerly known as
+   Informed Decisions Corporation that provides payment solutions and
+   services. Real Estate Inc and Real Estate LLC were formed for purposes
+   related to our real estate development project discussed in Note 4.
+                                2.
+   Significant Accounting Policies
+   Basis of Presentation and Consolidation
+   The accompanying unaudited condensed consolidated financial statements
+   and the related interim information contained within the notes to such
+   condensed consolidated financial statements have been prepared in
+   accordance with accounting principles generally accepted in the United
+   States of America, or GAAP, and the applicable rules of the Securities
+   and Exchange Commission, or SEC, for interim information and quarterly
+   reports on Form 10-Q.
+   The unaudited condensed consolidated financial statements have been
+   prepared on a consistent basis with the audited consolidated financial
+   statements included in our annual report on Form 10-K for the year
+   ended December 31, 2010 and in the opinion of management include all
+   normal recurring adjustments that are necessary for the fair statement
+   of our interim period results reported herein.  The December 31, 2010
+   condensed consolidated balance sheet data was derived from audited
+   financial statements but does not include all disclosures required by
+   GAAP.  Due to seasonal fluctuations and other factors, the results of
+   operations for the three months and six months ended June 30, 2011 are
+   not necessarily indicative of the results to be expected for the full
+   year.
+   The unaudited condensed consolidated financial statements reflect the
+   financial position and results of operations of us and our wholly-owned
+   subsidiaries. All material intercompany transactions and balances have
+   been eliminated in consolidation.
+   The preparation of financial statements in conformity with GAAP
+   requires management to make significant estimates and assumptions that
+   affect the reported amounts of assets and liabilities and disclosure of
+   contingent assets and liabilities at the date of the financial
+   statements and the reported amounts of revenues and expenses during the
+   reporting periods. Actual results could differ from management's
+   estimates.
+   Basic and Diluted Net Income Available to Common Stockholders per
+   Common Share
+   As discussed in Note 6 below, on June 22, 2010, we consummated an
+   initial public offering of common stock. Had we made a distribution to
+   stockholders prior to the initial public offering, all classes of
+   preferred stock would have participated pro rata in dividends if and
+   when we declared a dividend. Therefore, the two class method of
+   calculating basic net income per common share was applied for the three
+   months and six months ended June 30, 2010. Upon completion of the
+   initial public offering, all classes of preferred stock converted to
+   common shares. As a result, the two class method does not apply to the
+   three months and six months ended June 30, 2011.
+
+
+
+   -6-
+     __________________________________________________________________
+
+   [52]Table of Contents
+
+                          Higher One Holdings, Inc.
+
+            Notes to Condensed Consolidated Financial Statements
+
+                                 (unaudited)
+
+   Basic net income per common share excludes dilution for potential
+   common stock issuances and is computed by dividing net income available
+   to common stockholders by the weighted-average number of common shares
+   outstanding for the period.  Diluted net income per common share
+   reflects the potential dilution that could occur if securities or other
+   contracts to issue common stock were exercised or converted into common
+   stock.  For the calculation of diluted net income per common share, the
+   basic weighted-average number of shares is increased by the dilutive
+   effect of restricted stock and stock options using the treasury-stock
+   method.  The treasury-stock method assumes that the options or warrants
+   are exercised at the beginning of the year (or date of issue if later),
+   and that the company uses those proceeds to purchase common stock for
+   the treasury at the average price for the reporting period.
+   The dilutive effect of stock options totaling 933,750 and 1,040,302
+   were not included in the computation of diluted net income per common
+   share for the three months ended June 30, 2010 and 2011, respectively,
+   as their effect would be anti-dilutive. The dilutive effect of stock
+   options totaling 933,750 and 1,031,352 were not included in the
+   computation of diluted net income per common share for the six months
+   ended June 30, 2010 and 2011, respectively, as their effect would be
+   anti-dilutive. Anti-dilutive securities are securities that upon
+   conversion or exercise increase earnings per share (or reduce the loss
+   per share). Restricted stock shares totaling 1,885,626 and 1,276,800
+   were not included in the computation of either basic or diluted
+   earnings per share as all necessary conditions for vesting have not
+   been satisfied by the end of the three and six months ended June 30,
+   2010 and 2011, respectively.
+   Comprehensive Income
+   There are no comprehensive income items other than net income. There
+   are no recorded unrealized gains or losses on the investments in
+   marketable securities as of the balance sheet dates.  Comprehensive
+   income equals net income for all periods presented.
+   Recent Accounting Pronouncements - Standards Implemented
+   We adopted each of the following standards on January 1, 2011.  The
+   adoption of these standards did not have a material impact on our
+   results of operations, cash flows or financial position.  There was no
+   material impact to our units of accounting, the way in which we
+   allocate consideration to various units of accounting or changes in the
+   pattern or timing of revenue recognition.
+   In October 2009, the Financial Accounting Standards Board, or FASB,
+   issued Accounting Standards Update , or ASU, No. 2009-13
+   "Multiple-Deliverable Revenue Arrangements." This ASU establishes the
+   accounting and reporting guidance for arrangements including multiple
+   revenue-generating activities. This ASU provides amendments to the
+   criteria for separating deliverables, measuring and allocating
+   arrangement consideration to one or more units of accounting. The
+   amendments in this ASU also establish a selling price hierarchy for
+   determining the selling price of a deliverable. Significantly enhanced
+   disclosures are also required to provide information about a vendor's
+   multiple-deliverable revenue arrangements, including information about
+   the nature and terms, significant deliverables, and its performance
+   within arrangements. The amendments also require providing information
+   about the significant judgments made and changes to those judgments and
+   about how the application of the relative selling-price method affects
+   the timing or amount of revenue recognition. The amendments in this ASU
+   are effective prospectively for revenue arrangements entered into or
+   materially modified in the fiscal years beginning on or after June 15,
+   2010.
+
+
+
+   -7-
+     __________________________________________________________________
+
+   [53]Table of Contents
+
+                          Higher One Holdings, Inc.
+
+            Notes to Condensed Consolidated Financial Statements
+
+                                 (unaudited)
+
+
+   In October 2009, the FASB issued ASU No. 2009-14, "Certain Revenue
+   Arrangements That Include Software Elements." This ASU changes the
+   accounting model for revenue arrangements that include both tangible
+   products and software elements that are essential to the functionality
+   of the product, and scopes these products out of current software
+   revenue guidance. The new guidance includes factors to help companies
+   determine what software elements are considered essential to the
+   functionality of the product. The amendments subject software-enabled
+   products to other revenue guidance and disclosure requirements, such as
+   guidance surrounding revenue arrangements with multiple-deliverables.
+   The amendments in this ASU are effective prospectively for revenue
+   arrangements entered into or materially modified in the fiscal years
+   beginning on or after June 15, 2010.
+   In April 2010, the FASB issued ASU No. 2010-17, "Milestone Method of
+   Revenue Recognition," which indicates the criteria that should be met
+   for determining whether the milestone method of revenue recognition is
+   appropriate. Companies can recognize consideration that is contingent
+   upon achievement of a milestone in its entirety as revenue in the
+   period in which the milestone is achieved only if the milestone meets
+   all criteria to be considered substantive. This ASU is effective for
+   fiscal years beginning on or after June 15, 2010.
+   Recent Accounting Pronouncements - New Standards to be Implemented
+   In June 2011, the FASB issued ASU No. 2011-05, "Comprehensive Income
+   (Topic 220)--Presentation of Comprehensive Income," which requires an
+   entity to present the total of comprehensive income, the components of
+   net income, and the components of other comprehensive income either in
+   a single continuous statement of comprehensive income or in two
+   separate but consecutive statements. This accounting standard update
+   eliminates the option to present the components of other comprehensive
+   income as part of the statement of equity and is effective for fiscal
+   years beginning after December 15, 2011.  This accounting standard
+   update is not expected to have a significant impact on our consolidated
+   financial statements.
+   In May 2011, the FASB issued ASU No. 2011-04, "Amendments to Achieve
+   Common Fair Value Measurement and Disclosure Requirements in U.S. GAAP
+   and International Financial Reporting Standards," which provides a
+   consistent definition of fair value and ensures that the fair value
+   measurement and disclosure requirements are similar between U.S. GAAP
+   and International Financial Reporting Standards. ASU 2011-04 changes
+   certain fair value measurement principles and enhances the disclosure
+   requirements particularly for level 3 fair value measurements. ASU
+   2011-04 is effective for interim and annual periods beginning after
+   December 15, 2011. We are currently evaluating the impact of adopting
+   ASU 2011-04, but believe there will be no significant impact on our
+   consolidated financial statements.
+   In December 2010, the FASB issued amended guidance to clarify the
+   acquisition date that should be used for reporting pro-forma financial
+   information for business combinations. If comparative financial
+   statements are presented, the pro-forma revenue and earnings of the
+   combined entity for the comparable prior reporting period should be
+   reported as though the acquisition date for all business combinations
+   that occurred during the current year had been completed as of the
+   beginning of the comparable prior annual reporting period. The
+   amendments in this guidance are effective prospectively for business
+   combinations for which the acquisition date is on or after January 1,
+   2011. There will be no impact on our consolidated financial results as
+   the amendments relate only to additional disclosures.
+   In December 2010, the FASB issued amendments to the guidance on
+   goodwill impairment testing. The amendments modify Step 1 of the
+   goodwill impairment test for reporting units with zero or negative
+   carrying amounts. For those reporting units, an entity is required to
+   perform Step 2 of the goodwill impairment test if it is more likely
+   than not that a goodwill impairment exists. In making such a
+   determination, the guidance states that an entity should consider
+   whether there are any adverse qualitative factors indicating that an
+   impairment may exist. The amendments are effective for fiscal years and
+   interim periods beginning January 1, 2011 and are not expected to have
+   a material impact on our consolidated financial statements.
+
+
+
+   -8-
+     __________________________________________________________________
+
+   [54]Table of Contents
+
+                          Higher One Holdings, Inc.
+
+            Notes to Condensed Consolidated Financial Statements
+
+                                 (unaudited)
+
+
+                                                                 3.
+   Investments in Marketable Securities and Fair Value Measurements
+   As of June 30, 2011 and December 31, 2010, all of our investments in
+   marketable securities were classified as available for sale.  Amortized
+   cost basis was equal to aggregate fair value for each of the major
+   security types as reflected in the table below. We had no recorded
+   unrealized gains or losses from investments as of December 31, 2010 and
+   June 30, 2011.  The contractual maturities of our available for sale
+   securities ranged from one to fifteen months as of June 30, 2011.
+   All of our assets carried at fair value measured on a recurring basis
+   are valued based on quoted prices in active markets for identical
+   assets (Level 1).  We do not have any liabilities carried at fair value
+   as of either June 30, 2011 or December 31, 2010. The following table
+   provides the assets carried at fair value measured on a recurring basis
+   as of June 30, 2011 and December 31, 2010 (in thousands of dollars):
+   Fair values at June 30, 2011
+
+       Quoted Prices in Active Markets for Identical Assets (Level 1)
+
+
+   Assets:
+
+      U.S. government debt securities
+                                      $ 15,883
+      Corporate debt
+   securities
+                                         1,001
+   Total assets
+                                      $ 16,884
+
+   Fair values at December 31, 2010
+
+                                   Level 1
+
+
+   Assets:
+
+      U.S. government debt securities
+                                      $ 13,695
+      Corporate debt
+   securities
+                                         1,002
+   Total assets
+                                      $ 14,697
+                                4.
+   Real Estate Development Project
+   As of June 30, 2011, we have incurred approximately $10.9 million on a
+   project to develop two existing commercial buildings located in New
+   Haven, Connecticut.  We will move into these buildings at the
+   completion of the project in 2012.  In connection with the real estate
+   development project, HOI and Real Estate LLC entered into an agreement
+   with the Connecticut Development Authority which provides for sales and
+   use tax relief for property purchases made for the project.  The total
+   amount of potential sales and use tax relief is $1 million.  The
+   conditions of the sales and use tax agreement require repayment to the
+   Connecticut Development Authority of the actual amount of sales and use
+   tax savings plus an additional 7.5% if HOI fails to meet certain
+   criteria.  In accordance with this obligation, we deposited $1.1
+   million into an escrow account in February 2011, which is reflected on
+   the condensed consolidated balance sheet as noncurrent restricted cash.
+                5.
+   Credit Facility
+   On December 31, 2010, HOI entered into a senior secured revolving
+   credit facility, or the Credit Facility. The amount available to be
+   drawn under the Credit Facility may be increased by an additional $50.0
+   million upon our request and the agreement of the lenders party to the
+   Credit Facility. In addition, the Credit Facility provides for letters
+   of credit of up to $3 million and includes certain restrictions on the
+   amount of acquisitions we may complete. As of June 30, 2011, $50.0
+   million in borrowings were available to us under the Credit Facility
+   and we were in compliance with all of the applicable affirmative,
+   negative and financial covenants in the Credit Facility.
+
+
+
+   -9-
+     __________________________________________________________________
+
+   [55]Table of Contents
+
+                          Higher One Holdings, Inc.
+
+            Notes to Condensed Consolidated Financial Statements
+
+                                 (unaudited)
+
+
+              6.
+   Capital Stock
+   Initial Public Offering
+   On June 22, 2010, we consummated an initial public offering of
+   3,569,395 shares of newly issued common stock and 6,780,605 shares
+   offered by selling stockholders. The aggregate public offering price of
+   the offering amount registered was $124.2 million and the offering did
+   not terminate before all of the shares registered in the registration
+   statement were sold. Our proceeds of $37.2 million, net of issuance
+   costs, were used to pay outstanding amounts on our credit facility in
+   effect at that time, make an escrow payment of $8.25 million related to
+   the acquisition payable described in Note 7 below and fund working
+   capital. We did not receive any of the proceeds from the sale of shares
+   by the selling stockholders.
+   Upon consummation of our initial public offering, 417,049 shares of
+   Series A convertible preferred stock outstanding, 1,086,784 shares of
+   Series B convertible preferred stock outstanding, 2,522,554 shares of
+   Series C convertible preferred stock outstanding, 2,180,633 shares of
+   Series C-1 convertible preferred stock outstanding, 1,313,604 shares of
+   Series D convertible preferred stock outstanding and 5,454,545 shares
+   of Series E convertible preferred stock outstanding were converted into
+   38,925,507 shares of common stock after giving effect to the 3-for-1
+   stock split discussed below. Following the consummation of the
+   offering, there were no shares of preferred stock outstanding.
+   Common Stock
+   In connection with the initial public offering, we effected a 3-for-1
+   stock split of the outstanding shares of our Common Stock that was
+   previously approved by stockholders. All common share amounts and per
+   common share amounts have been adjusted in the financial statements for
+   all periods presented. We are authorized to issue up to 200,000,000
+   shares of Common Stock with a par value of $.001 per share. Each share
+   of Common Stock entitles the holder to one vote on all matters
+   submitted to a vote of our stockholders. Common stockholders are not
+   entitled to receive dividends unless declared by the Board of
+   Directors.
+   Preferred Stock
+   We are authorized to issue 20,000,000 shares of Preferred Stock with a
+   par value of $.001 per share.  As of December 31, 2010 and June 30,
+   2011, no shares of preferred stock were outstanding.
+                              7.
+   Commitments and Contingencies
+   From time to time we are subject to litigation relating to matters in
+   the ordinary course of business, as well as regulatory examinations,
+   information gathering requests, inquiries and investigations. In
+   February 2011, the New York Regional Office of the Federal Deposit
+   Insurance Corporation, or FDIC, notified us that it was prepared to
+   recommend to the Director of FDIC Supervision that an enforcement
+   action be taken against us for alleged violations of certain applicable
+   laws and regulations principally relating to our compliance management
+   system and policies and practices for past overdraft charging on
+   persistently delinquent accounts, collections and transaction error
+   resolution. Any such enforcement action could result in an order to pay
+   restitution and civil money penalties. We have responded to the FDIC's
+   notification and have amended certain practices. In view of the
+   inherent difficulty of predicting the outcome of regulatory matters,
+   including the FDIC notification, we generally cannot predict what the
+   eventual outcome of pending matters will be or what the timing of the
+   ultimate resolution of these matters will be.  However, we currently
+   estimate the potential range of loss associated with these matters to
+   be between $0 and $10 million. In accordance with applicable accounting
+   guidance, we would establish a liability for litigation and regulatory
+   matters if and when those matters were to present loss contingencies
+   that were both probable and reasonably estimable.
+
+
+
+   -10-
+     __________________________________________________________________
+
+   [56]Table of Contents
+
+                          Higher One Holdings, Inc.
+
+            Notes to Condensed Consolidated Financial Statements
+
+                                 (unaudited)
+
+
+   On June 22, 2010, HOI provided notice and a certificate of claim for
+   indemnity under the Stock Purchase Agreement by and among us and the
+   former stockholders of Informed Decisions Corporation, or IDC, dated
+   November 19, 2009, arising from certain misrepresentations and breaches
+   of warranty. At the same time, we deposited $8.25 million, equal to the
+   remaining balance of the post-closing payments, with an escrow
+   agent. Separately, the former stockholders of IDC filed a complaint
+   against HOI in the United States District Court for the Northern
+   District of California, or the Complaint, on July 20, 2010, disputing
+   that misrepresentations were made and that warranties were breached;
+   alleging breach of contract and anticipatory breach; and seeking a
+   declaratory judgment ordering that the post-closing payments be made in
+   accordance with the schedule set forth in the stock purchase agreement.
+   On April 25, 2011, HOI and the former stockholders of IDC agreed to a
+   settlement, the material terms of which are as follows: (a) $2 million
+   of the amount held in escrow, plus pro-rated interest, was to be paid
+   to HOI; (b) $6.25 million of the amount held in escrow, plus pro-rated
+   interest, was to be paid to the former stockholders; and (c) HOI and
+   the former stockholders generally and mutually released each other from
+   all past and future claims, known and unknown, arising out of the stock
+   purchase agreement and related transition services agreements between
+   HOI and each of the former stockholders, relating to the operation or
+   sale of IDC, including all indemnification and payment obligations,
+   with the exception of certain rights, obligations and claims.  The
+   amount held in escrow was distributed to HOI and the former
+   stockholders of IDC in accordance with the terms of the settlement
+   agreement in May 2011.
+   We recorded the impact of the settlement agreement in the quarter
+   ending June 30, 2011.  The $2 million returned from escrow to us was
+   recorded as other income of $1.5 million, reflecting a payment made
+   under the indemnification provisions of the stock purchase agreement
+   and a reduction of general and administrative expenses of $0.5 million,
+   reflecting the recovery of certain legal costs incurred for the
+   litigation.
+   In February 2009 and September 2010, HOI filed two separate complaints
+   against TouchNet Information Systems, Inc., or TouchNet, in the United
+   States District Court for the District of Connecticut alleging patent
+   infringement related to TouchNet's offering for sale and sales of its
+   "eRefund" product in violation of one of two of HOI's patents. In the
+   complaints, HOI sought judgments that TouchNet has infringed two of
+   HOI's patents, a judgment that TouchNet pay damages and interest on
+   damages to compensate HOI for infringement, an award of HOI's costs in
+   connection with these actions and an injunction barring TouchNet from
+   further infringing HOI's patent. TouchNet answered the complaint and
+   asserted a number of defenses and counterclaims, including that it does
+   not infringe HOI's patent, that HOI's patent is invalid or
+   unenforceable and certain allegations of unfair competition and state
+   and federal antitrust violations. In addition, TouchNet's counterclaims
+   sought dismissal of HOI's claims with prejudice, declaratory judgment
+   that TouchNet does not infringe HOI's patent and that HOI's patent is
+   invalid or unenforceable, as well as an award of fees and costs related
+   to the action, and an injunction permanently enjoining HOI from suing
+   TouchNet regarding infringement of HOI's patent. The parties are
+   currently in the discovery stage of the proceeding. HOI intends to
+   pursue the matter vigorously. There can be no assurances of success in
+   these proceedings.
+
+
+
+   -11-
+     __________________________________________________________________
+
+   [57]Table of Contents
+   Item 2.                                Management's Discussion and
+   Analysis of Financial Condition and Results of Operations
+   The information contained in this section should be read in conjunction
+   with our audited consolidated financial statements and related notes as
+   included in our annual report on Form 10-K for the year ended December
+   31, 2010 and information contained elsewhere in such annual report on
+   Form 10-K and in this quarterly report on Form 10-Q. The discussion
+   contains forward-looking statements involving risks, uncertainties and
+   assumptions that could cause our results to differ materially from
+   expectations. Factors that might cause these differences include those
+   described under "Risk Factors" and elsewhere in the annual report on
+   Form 10-K and in this quarterly report on Form 10-Q. The
+   forward-looking statements included in this quarterly report on Form
+   10-Q are made only as of the date of this report. We do not undertake
+   any obligation to update or supplement any forward-looking statements
+   to reflect subsequent events or circumstances, except as required by
+   law. We cannot assure you that projected results or events will be
+   achieved or will occur.
+
+                                  Overview
+
+   We believe that based on market share and the number of campuses
+   employing our products, we are a leading provider of technology and
+   payment services to the higher education industry. We believe that none
+   of our competitors can match our ability to provide solutions for
+   higher education institutions' financial services needs, including
+   compliance monitoring, and, consequently, that we provide the most
+   comprehensive suite of disbursement and payment solutions specifically
+   designed for higher education institutions and their students. We also
+   provide campus communities with convenient, cost-competitive and
+   student-oriented banking services, which include extensive
+   user-friendly features.
+   Our products and services for our higher education institutional
+   clients include our OneDisburse® Refund Management® disbursement
+   service and our CASHNet® suite of payment transaction products and
+   services. Through our bank partner, we offer our OneAccount service to
+   the students of our higher education institutional clients, which
+   includes an FDIC-insured deposit account, a OneCard, which is a debit
+   MasterCard® ATM card, and other retail banking services.
+   As of June 30, 2011, more than 490 campuses serving approximately
+   3.7 million students had purchased the OneDisburse® funds disbursement
+   service.  This represents an increase of 246 thousand students, or
+   7.2%, from the level as of March 31, 2011 and 378 thousand students, or
+   11.5%, from December 31, 2010.  As of June 30, 2011, more than 350
+   campuses serving approximately 2.6 million students had contracted to
+   use one or more of our CASHNet® payment products and services. As of
+   June 30, 2011, there were approximately 1.7 million OneAccounts.  Since
+   the initial launch of our OneDisburse® funds disbursement service in
+   2002 and as of June 30, 2011, we have completed disbursement
+   transactions with a total cash value of over $23 billion.
+   Our revenue fluctuates as a result of seasonal factors related to the
+   academic year. A large proportion of our revenue is either directly or
+   indirectly dependent on academic financial aid received by students.
+   Higher education institutional clients typically disburse financial aid
+   refunds to students at the start of each academic term. Distribution of
+   financial aid disbursements through our OneDisburse® service (1)
+   indirectly generates revenue through deposits of financial aid into
+   OneAccounts, which generates account revenue, and (2) directly
+   generates revenue through our higher education institution clients' use
+   of the OneDisburse® service, which generates higher education
+   institution revenue.
+   While revenue fluctuates over the course of the year, our fixed
+   expenses remain relatively constant, resulting in wide disparities in
+   our net income and adjusted net income from quarter to quarter.
+   Typically, the first and third quarters account for the largest
+   proportion of our revenues but an equal proportion of certain of our
+   expenses. This is primarily because the majority of financial aid is
+   disbursed during these times of the year and higher education
+   institutions tend to enroll more new students in the third fiscal
+   quarter. We expect that this trend will continue going forward.
+
+
+
+   -12-
+     __________________________________________________________________
+
+   [58]Table of Contents
+
+   We continue to assess the impact of certain legislative and regulatory
+   changes that have been enacted or made effective that may impact our
+   operations and revenue. Effective July 1, 2010, the Federal Reserve
+   Board amended its regulations implementing the Electronic Funds
+   Transfer Act, or Regulation E, to limit the ability of financial
+   institutions to assess overdraft fees for paying ATM and one-time debit
+   card transactions that overdraw a consumer's account, unless the
+   consumer affirmatively consents, or opts in, to the institution's
+   payments of overdrafts for these services. On July 21, 2010, the
+   Dodd-Frank Wall Street Reform and Consumer Protection Act, or the Act,
+   was signed into law. The Act will change many banking practices over
+   time, however, the scope and impact of many of the Act's provisions are
+   still being defined through the rule making process. On June 29, 2011,
+   the Federal Reserve issued its final rule implementing the limits on
+   debit card interchange fees and requirements for future routing of
+   transactions required by the Act.  In accordance with the Act, issuers
+   that, together with their affiliates, have less than $10 billion in
+   assets are exempt from these debit card interchange fee limits,
+   although they are subject to the prohibitions on network exclusivity
+   and routing restrictions.  Our banking partner, The Bancorp Bank, has
+   assets of less than $10 billion and therefore should be exempt from the
+   debit card interchange fee cap.  While we currently do not expect the
+   limitation on debit card interchange fees or the provisions relating to
+   network exclusivity and routing restrictions to have a material result
+   on our results of operations, we will continue to evaluate the Act, the
+   ongoing rule making process and their effect on our business and
+   results of operations.  See "Risk Factors."
+
+   Results of Operations for the Three Months Ended June 30, 2010 and 2011
+
+   The following tables summarize key components of our results of
+   operations for the periods indicated, both in dollars and as a
+   percentage of total revenue:
+
+                             Three Months Ended
+
+
+
+                                  June 30,
+
+
+
+                                 (Unaudited)
+
+
+
+                                    2010
+
+
+                                    2011
+
+
+   $ Change
+
+   % Change
+
+
+                               (in thousands)
+
+
+   Account revenue
+     $ 21,732     $ 27,701     $ 5,969       27.5 %
+   Payment transaction revenue
+       2,671       3,080       409       15.3 %
+   Higher education institution revenue
+       2,744       3,725       981       35.8 %
+   Other revenue
+       603       561       (42 )     (7.0 %)
+   Total revenue
+       27,750       35,067       7,317       26.4 %
+   Cost of revenue
+       10,399       13,423       3,024       29.1 %
+   Gross margin
+       17,351       21,644       4,293       24.7 %
+   General and administrative
+       7,784       9,015       1,231       15.8 %
+   Product development
+       793       895       102       12.9 %
+   Sales and marketing
+       5,516       6,701       1,185       21.5 %
+   Income from operations
+       3,258       5,033       1,775       54.5 %
+   Interest income
+       2       11       9       450.0 %
+   Interest expense
+       (247 )     (56 )     191       (77.3 %)
+   Other income
+       -       1,500       1,500       100.0 %
+   Net income before income taxes
+       3,013       6,488       3,475       115.3 %
+   Income tax expense
+       1,183       1,734       551       46.6 %
+   Net income
+     $ 1,830     $ 4,754     $ 2,924       159.8 %
+
+
+
+   -13-
+     __________________________________________________________________
+
+   [59]Table of Contents
+
+
+                             Three Months Ended
+
+
+
+                                  June 30,
+
+
+
+                                    2010
+
+
+                                    2011
+
+
+
+   Account revenue
+                                           78.3  %      79.0  %
+   Payment transaction revenue
+                                            9.6  %       8.8  %
+   Higher education institution revenue
+                                            9.9  %      10.6  %
+   Other revenue
+                                         2.2   %      1.6   %
+   Total revenue
+                                          100.0  %     100.0  %
+   Cost of revenue
+                                         37.5  %      38.3  %
+   Gross margin
+                                           62.5  %      61.7  %
+   General and administrative expense
+                                           28.1  %      25.7  %
+   Product development expense
+                                            2.9  %       2.5  %
+   Sales and marketing expense
+                                         19.9  %      19.1  %
+   Income from operations
+                                           11.7  %      14.4  %
+   Interest expense
+                                            0.0  %       0.0  %
+   Interest income
+                                           (0.8 %)      (0.2 %)
+   Other income
+                                         0.0   %      4.3   %
+           Income before income taxes
+                                           10.9  %      18.5  %
+   Income tax expense
+                                         4.3   %      4.9   %
+           Net income
+                                            6.6  %      13.6  %
+
+   Three Months Ended June 30, 2011 Compared to the Three Months Ended
+   June 30, 2010
+   Revenue
+   Account revenue
+   The increase in account revenue was primarily due to an increase of
+   39.5%, or 0.5 million, in the number of OneAccounts from June 30, 2010
+   to June 30, 2011.  Greater adoption and student enrollments at higher
+   education institutions which were clients as of June 30, 2010 accounted
+   for 58% of the increase in the number of OneAccounts.  The remaining
+   increase was due to students choosing the OneAccount at higher
+   education institutions which became clients after June 30, 2010.  The
+   increase in the number of OneAccounts resulted in increases in
+   interchange fees, ATM fees and other fees that our bank partner remits
+   to us. While our historical experience has been that account revenue
+   generated per OneAccount has been generally stable year over year, with
+   total account revenue generally increasing proportionally with
+   increases in the number of OneAccounts, the implementation of
+   amendments to Regulation E in the third quarter of 2010 decreased the
+   account revenue per OneAccount compared to the same period in the prior
+   year.  We expect the account revenue per OneAccount to continue to be
+   lower than in previous periods as the result of insufficient funds fee
+   changes made in response to the amendments to Regulation E through the
+   third quarter of the fiscal year ending December 31, 2011 which
+   resulted in reductions in insufficent fund fees.
+   Payment Transaction Revenue
+   The increase in payment transaction revenue was primarily due to an
+   increase in the number of higher education institutions using our
+   CASHNet® payment transaction product.
+
+
+
+   -14-
+     __________________________________________________________________
+
+   [60]Table of Contents
+
+   Higher Education Institution Revenue
+   The increase in higher education institution revenue was primarily due
+   to an increase in subscription revenues for our CASHNet® suite of
+   payment products.  The increase in subscription revenue follows a
+   consistent rate of revenue compared to the first quarter of 2011 and
+   reflects amounts earned both on new modules sold to previously existing
+   higher education institution clients, as well as sales of the CASHNet®
+   suite of payment products to new higher education institution clients.
+   Other Revenue
+   The decrease in other revenue was primarily due to a decrease in
+   processing fees that our bank partner paid to us, which resulted
+   primarily from a decrease in prevailing interest rates in the second
+   quarter of 2011 compared to the second quarter of 2010, partially
+   offset by an increase in aggregate OneAccount balances compared to the
+   same period in 2010.
+   Cost of Revenue
+   The increase in cost of revenue was primarily due to an increase in the
+   number of active OneAccounts.  The increase in active OneAccounts
+   contributed to increases in data processing expenses of $1.0 million,
+   or 47.4%, customer service expenses of $0.5 million, or 61.0%, and
+   network fees of $0.4 million or 35.6%.  Write-offs and the provision
+   for uncollectible fees increased $1.0 million, or 42.0%.  We
+   experienced an increase in transaction processing costs related to our
+   CASHNet® payment transaction revenue of $0.3 million or 15.4%.
+   General and Administrative Expense
+   The increase in general and administrative expenses was driven
+   primarily by an increase in cash-based employee compensation costs of
+   $0.8 million, or 25.7%; an increase in depreciation and amortization of
+   $0.3 million, or 33.1%; and losses on the disposal of ATMs of $0.1
+   million associated with the replacement of a portion of our ATMs during
+   the quarter ended June 30, 2011.  General and administrative expenses
+   for the quarter ended June 30, 2011 reflects a reduction in expenses of
+   $0.5 million due to the recovery of certain legal costs incurred for
+   the litigation with the former stockholders of Informed Decisions
+   Corporation, see Part II, Item 1. Legal Proceedings for additional
+   information related to our settlement agreement.
+   Product Development Expense
+   The increase in product development expense was primarily due to
+   increases in personnel costs.
+   Sales and Marketing Expense
+   The increase in sales and marketing expense was primarily due to an
+   increase of $1.2 million, or 39.9%, in non-cash, stock-based sales
+   acquisition expense related to the vesting of certain shares issued in
+   connection with the acquisition of EduCard, LLC due to both a higher
+   average share price at the date of vesting as well as additional shares
+   vesting.
+   Interest Expense
+   The decrease in interest expense was primarily due to lower
+   amortization of deferred financing costs of the Credit Facility,
+   compared to the credit facility in place during 2010 and the accretion
+   of our acquisition payable during 2010 which became fully accreted
+   throughout 2010 and no longer accrues interest.  During the three
+   months ended June 30, 2011, a zero balance was maintained on the Credit
+   Facility.
+
+
+
+   -15-
+     __________________________________________________________________
+
+   [61]Table of Contents
+
+   Other Income
+   We recorded $1.5 million of other income during the quarter ended June
+   30, 2011 as a result of the settlement agreement reached with the
+   former stockholders of IDC.  See Part II, Item 1. Legal Proceedings,
+   for additional information related to our settlement agreement.
+   Income Tax Expense
+   The increase in income tax expense was primarily due to an increase of
+   $3.5 million, or 115.3%, of net income before taxes.  The gain we
+   recorded as a result of the settlement agreement with the former
+   stockholders of IDC of $1.5 million did not have any tax impact, which
+   resulted in only a 46.6% increase in income tax expense for the quarter
+   ending June 30, 2011.  The effective tax rates for the three months
+   ended June 30, 2010 and 2011 were 39.3% and 26.7%, respectively.  Our
+   effective rate is expected to be between 35% and 37% for the 2011
+   fiscal year.
+
+    Results of Operations for the Six Months Ended June 30, 2010 and 2011
+
+   The following tables summarize key components of our results of
+   operations for the periods indicated, both in dollars and as a
+   percentage of total revenue:
+
+                              Six Months Ended
+
+
+
+                                  June 30,
+
+
+
+                                 (Unaudited)
+
+
+
+                                    2010
+
+
+                                    2011
+
+
+   $ Change
+
+   % Change
+
+
+                               (In thousands)
+
+
+   Account revenue
+     $ 53,474     $ 69,700     $ 16,226       30.3 %
+   Payment transaction revenue
+       6,515       7,385       870       13.4 %
+   Higher education institution revenue
+       5,421       8,101       2,680       49.4 %
+   Other revenue
+       1,210       1,264       54       4.5 %
+   Total revenue
+       66,620       86,450       19,830       29.8 %
+   Cost of revenue
+       22,938       30,856       7,918       34.5 %
+   Gross margin
+       43,682       55,594       11,912       27.3 %
+   General and administrative
+       15,583       18,787       3,204       20.6 %
+   Product development
+       1,762       1,680       (82 )     (4.7 %)
+   Sales and marketing
+       9,420       12,165       2,745       29.1 %
+   Income from operations
+       16,917       22,962       6,045       35.7 %
+   Interest income
+       3       36       33       1100.0 %
+   Interest expense
+       (476 )     (130 )     346       (72.7 %)
+   Other income
+       -       1,500       1,500       100.0 %
+   Net income before income taxes
+       16,444       24,368       7,924       48.2 %
+   Income tax expense
+       6,350       8,572       2,222       35.0 %
+   Net income
+     $ 10,094     $ 15,796     $ 5,702       56.5 %
+
+
+
+   -16-
+     __________________________________________________________________
+
+   [62]Table of Contents
+
+
+                              Six Months Ended
+
+
+
+                                  June 30,
+
+
+
+                                    2010
+
+
+                                    2011
+
+
+
+   Account revenue
+                                           80.3  %      80.6  %
+   Payment transaction revenue
+                                            9.8  %       8.5  %
+   Higher education institution revenue
+                                            8.1  %       9.4  %
+   Other revenue
+                                         1.8   %      1.5   %
+   Total revenue
+                                          100.0  %     100.0  %
+   Cost of revenue
+                                         34.4  %      35.7  %
+   Gross margin
+                                           65.6  %      64.3  %
+   General and administrative expense
+                                           23.4  %      21.7  %
+   Product development expense
+                                            2.6  %       1.9  %
+   Sales and marketing expense
+                                         14.1  %      14.1  %
+   Income from operations
+                                           25.4  %      26.6  %
+   Interest expense
+                                            0.0  %       0.0  %
+   Interest income
+                                           (0.7 %)      (0.1 %)
+   Other income
+                                         0.0   %      1.7   %
+           Income before income taxes
+                                           24.7  %      28.2  %
+   Income tax expense
+                                         9.5   %      9.9   %
+           Net income
+                                           15.2  %      18.3  %
+
+   Six Months Ended June 30, 2011 Compared to the Six Months Ended June
+   30, 2010
+   Revenue
+   Account revenue
+   The increase in account revenue was primarily due to an increase of
+   39.5%, or 0.5 million, in the number of OneAccounts from June 30, 2010
+   to June 30, 2011.  Greater adoption and student enrollments at higher
+   education institutions which were clients as of June 30, 2010 accounted
+   for 58% of the increase in the number of OneAccounts.  The remaining
+   increase was due to students choosing the OneAccount at higher
+   education institutions which became clients after June 30, 2010.  The
+   increase in the number of OneAccounts resulted in increases in
+   interchange fees, ATM fees and other fees that our bank partner remits
+   to us. While our historical experience has been that account revenue
+   generated per OneAccount has been generally stable year over year, with
+   total account revenue generally increasing proportionally with
+   increases in the number of OneAccounts, the implementation of
+   amendments to Regulation E in the third quarter of 2010 decreased the
+   account revenue per OneAccount compared to the same period in the prior
+   year.  We expect the account revenue per OneAccount to continue to be
+   lower than in previous periods as the result of insufficient funds fee
+   changes made in response to the Regulation E amendments to regulations
+   through the third quarter of the fiscal year ending December 31, 2011.
+   Payment Transaction Revenue
+   The increase in payment transaction revenue was primarily due to an
+   increase in the number of higher education institutions using our
+   CASHNet® payment transaction product.
+
+
+
+   -17-
+     __________________________________________________________________
+
+   [63]Table of Contents
+   Higher Education Institution Revenue
+   The increase in higher education institution revenue was primarily due
+   to an increase in subscription revenues for our CASHNet® suite of
+   payment products.  The increase in subscription revenue follows a
+   consistent rate of revenue compared to the fourth quarter of 2010 and
+   reflects amounts earned both on new modules sold to previously existing
+   higher education institution clients, as well as sales of the CASHNet®
+   suite of payment products to new higher education institution clients.
+   Cost of Revenue
+   The increase in cost of revenue was primarily due to an increase in the
+   number of active OneAccounts.  The increase in the number of active
+   OneAccounts contributed to increases in data processing expenses of
+   $2.4 million, or 47.6%, customer service expenses of $1.4 million, or
+   71.1%, and network fees of $1.1 million, or 33.1%.  Write-offs and the
+   provision for uncollectible fees increased $2.6 million, or 55.3%,
+   approximately $1.2 million of which related to losses associated with a
+   theft at an unrelated third-party merchant.  While we experience these
+   losses in the normal course of our business, it is unusual for us to
+   experience a loss of this magnitude in a short period of time.  We also
+   experienced an increase in transaction processing costs related to our
+   CASHNet® payment transaction revenue of $0.7 million or 15.4%.
+   General and Administrative Expense
+   Although, general and administrative expenses continue to increase as
+   our size grows, such expenses are increasing at a lower rate than our
+   revenue growth.  The increase in general and administrative expenses
+   was driven primarily by an increase of $1.0 million, or 13.5%, in
+   cash-based employee compensation costs; $0.5 million, or 32.4%, in
+   depreciation and amortization; $0.3 million, or 27.5%, in professional
+   fees and $0.3 million, or 19.3% of stock-based compensation
+   expense.  The remaining increases are varied expenses to support our
+   business growth, including facility costs, costs to maintain our fleet
+   of ATMs, telecommunications and other technology costs.
+   Product Development Expense
+   The decrease in product development expense was primarily due to
+   decreases in costs related to outsourced services.
+   Sales and Marketing Expense
+   The increase in sales and marketing expense was primarily due to an
+   increase of $2.2 million, or 48.0%, in non-cash, stock-based sales
+   acquisition expense related to the vesting of certain shares issued in
+   connection with the acquisition of EduCard, LLC due to a higher average
+   share price at the date of vesting as well as additional shares
+   vesting.  Additional advertising expenses and tradeshow participation
+   contributed to the overall increase.
+   Interest Expense
+   The decrease in interest expense was primarily due to lower
+   amortization of deferred financing costs of the Credit Facility,
+   compared to the credit facility in place during 2010 and the accretion
+   of acquisition payable during 2010 which became fully accreted
+   throughout 2010 and no longer accrues interest.  During the six months
+   ended June 30, 2011, a zero balance was maintained on the Credit
+   Facility.
+   Other Income
+   We recorded $1.5 million of other income during the six months ended
+   June 30, 2011 as a result of the settlement agreement reached with the
+   former stockholders of IDC.  See Part II, Item 1. Legal Proceedings,
+   for additional information related to our settlement agreement.
+
+
+
+   -18-
+     __________________________________________________________________
+
+   [64]Table of Contents
+
+   Income Tax Expense
+   The increase in income tax expense was primarily due to an increase of
+   $7.9 million, or 48.2%, of net income before taxes.  The gain we
+   recorded as a result of the settlement agreement with the former
+   stockholders of IDC of $1.5 million did not have any tax impact, which
+   resulted in only a 35.0% increase in income tax expense for the six
+   months ending June 30, 2011.  The effective tax rates for the six
+   months ended June 30, 2010 and 2011 were 38.6% and 35.2%,
+   respectively.  Our effective rate is expected to be between 35% and 37%
+   for the 2011 fiscal year.
+
+                       Liquidity and Capital Resources
+
+   Sources of Liquidity
+   Our primary sources of liquidity are cash flows from operations,
+   borrowings under our Credit Facility, as defined below, and
+   available-for-sale investments. As of June 30, 2011, we had $50.4
+   million in cash and cash equivalents, $16.9 million in
+   available-for-sale investments and $50.0 million borrowing capacity
+   available under our Credit Facility. Our primary liquidity requirements
+   are for working capital, capital expenditures, product development
+   expenses and general corporate needs. As of June 30, 2011, we had
+   working capital of $55.6 million.
+   Senior Secured Revolving Credit Facility
+   Higher One, Inc. entered into a senior secured revolving credit
+   facility dated as of December 31, 2010. We refer to the credit facility
+   as the Credit Facility. The Credit Facility has a maximum amount
+   available to be drawn of $100 million, of which $50 million is
+   available currently and the remaining $50 million is available subject
+   to lender approval.  Any amounts drawn under the Credit Facility are
+   payable in a single maturity on December 31, 2013. Higher One Holdings,
+   Inc., and each of the wholly-owned subsidiaries of Higher One, Inc., is
+   a guarantor of Higher One, Inc.'s obligations under the Credit
+   Facility.
+
+   The Credit Facility is secured by a perfected first priority security
+   interest in all of the capital stock of Higher One, Inc. and its
+   subsidiaries, and substantially all of each Credit Facility guarantor's
+   tangible and intangible assets, other than intellectual property. Each
+   of the Credit Facility guarantors has also granted to the
+   administrative agent under the Credit Facility a negative pledge of the
+   intellectual property of Higher One, Inc. and its subsidiaries,
+   including patents and trademarks that are pending and acquired in the
+   future.
+   As of June 30, 2011, Higher One, Inc. had no outstanding indebtedness
+   under the Credit Facility.
+   The Credit Facility contains certain affirmative covenants including,
+   among other things, covenants to furnish the lenders with financial
+   statements and other financial information and to provide the lenders
+   notice of material events and information regarding collateral. The
+   Credit Facility also contains certain negative covenants that, among
+   other things, restrict Higher One, Inc.'s ability, subject to certain
+   exceptions, to incur additional indebtedness, grant liens on its
+   assets, undergo fundamental changes, make investments, sell assets,
+   make restricted payments, change the nature of its business and engage
+   in transactions with its affiliates.
+   In addition, the Credit Facility contains certain financial covenants
+   that require we maintain a minimum EBITDA level of $50 million, a
+   funded debt to EBITDA ratio not to exceed 2.00 to 1.00 and a fixed
+   charge coverage ratio of at least 1.25 to 1.00. Each such financial
+   covenant is measured using the financial results of the most recent
+   four fiscal quarters.  As of June 30, 2011, Higher One, Inc. was in
+   compliance with all covenants under the Credit Facility.
+
+
+
+   -19-
+     __________________________________________________________________
+
+   [65]Table of Contents
+
+   Cash Flows
+   The following table presents information regarding our cash flows, cash
+   and cash equivalents for the six months ended June 30, 2010 and 2011:
+
+
+                              Six Months Ended
+
+
+
+                                  June 30,
+
+
+
+                                    2010
+
+
+                                    2011
+
+
+   $ Change
+
+
+                                 (unaudited)
+
+
+
+                               (in thousands)
+
+
+ Net cash provided by (used in):
+
+ Operating activities
+                                          $  17,194     $ 21,906     $   4,712
+ Investing activities
+                                            (12,406 )     (8,458 )       3,948
+ Financing activities
+                                             21,741        2,541       (19,200 )
+ Increase in cash and cash equivalents
+                                             26,529       15,989       (10,540 )
+ Cash and cash equivalents, end of period
+                                          $  29,868     $ 50,473     $  20,605
+   The increase in net cash provided by operating activities consisted of
+   an increase of $5.7 million in net income offset by a $1.0 million net
+   decrease in adjustments to reconcile net income to cash.  Our non-cash
+   expenses decreased by $0.3 million primarily as a result of an increase
+   in our deferred income tax benefit and the income we recorded in
+   connection with the settlement agreement reached with the former
+   stockholders of IDC partially offset by an increase in stock-based
+   compensation and stock-based customer acquisition expense.  Our
+   operating assets and liabilities used approximately $1.4 million of
+   cash, net, during the six months ended June 30, 2011.
+   The decrease in net cash used in investing activities primarily relates
+   to payments which we made to an escrow agent in 2010 related to our
+   acquisition of IDC which did not recur in 2011, which was partially
+   offset by an increase in our amount spent on fixed assets related to
+   our construction project described below.
+   As of June 30, 2011, we have incurred approximately $10.9 million on a
+   project to develop two existing commercial buildings located in New
+   Haven, Connecticut into which we expect to move at the completion of
+   the project in 2012. We anticipate making additional payments in 2011
+   and 2012 as progress continues on the project. The project has a total
+   estimated cost of approximately $47 million. Our net cost will be
+   reduced by federal and state subsidies, grants and tax credits from
+   various programs and entities which are described in our annual report
+   on Form 10-K for the year ended December 31, 2010.
+   We believe that our cash flows from operations, together with our
+   existing liquidity sources, will be sufficient to fund our operations
+   and anticipated capital expenditures over at least the next twenty-four
+   months. We intend to fund our real estate development project using
+   existing cash and additional cash generated from operations.
+   The decrease in net cash provided by financing activities was primarily
+   related to our issuance of common stock in 2010, which resulted in net
+   proceeds of $37.8 million.  We repaid $18.0 million, net on our then
+   existing line of credit during the six months ended June 30, 2010.  The
+   only cash flows from financing activities in 2011 have resulted from
+   the exercise of stock options.
+
+
+
+   -20-
+     __________________________________________________________________
+
+   [66]Table of Contents
+
+   Supplemental Financial and Operating Information
+
+                             Three Months Ended
+
+
+                              Six Months Ended
+
+
+
+                                  June 30,
+
+
+                                  June 30,
+
+
+
+                                    2010
+
+
+                                    2011
+
+
+                                    2010
+
+
+                                    2011
+
+
+
+                                 (unaudited)
+
+                               (in thousands)
+
+
+                                 (unaudited)
+
+                               (in thousands)
+
+
+
+   Adjusted EBITDA (1)
+     $ 9,205     $ 11,979     $ 27,140     $ 35,977
+   Adjusted net income (2)
+     $ 5,053     $ 7,122     $ 15,618     $ 21,527
+
+   Number of students enrolled at OneDisburse client higher education
+   institutions at end of period
+       2,795       3,659       2,795       3,659
+
+   Number of students enrolled at payment transaction client higher
+   education institutions at end of period
+       2,315       2,550       2,315       2,550
+
+   Number of OneAccounts at end of period
+       1,235       1,722       1,235       1,722
+                   We define adjusted EBITDA as net income before
+   interest, income taxes and depreciation and amortization, or EBITDA,
+   further adjusted to remove the effects of stock-based customer
+   acquisition expense related to our grants of common stock in connection
+   with our acquisition of EduCard in 2008 and cash-based customer
+   acquisition expense related to the acquisition of IDC, stock-based
+   compensation expense and the gain we recorded in connection with the
+   settlement of our litigation with the former stockholders of IDC.
+   Neither EBITDA nor adjusted EBITDA should be considered as an
+   alternative to net income, operating income or any other measure of
+   financial performance calculated and presented in accordance with GAAP.
+   Our EBITDA and adjusted EBITDA may not be comparable to similarly
+   titled measures of other organizations because other organizations may
+   not calculate EBITDA and adjusted EBITDA in the same manner as we do.
+   We prepare and present adjusted EBITDA to eliminate the effect of items
+   that we do not consider indicative of our core operating performance.
+   You are encouraged to evaluate our adjustments and the reasons we
+   consider them appropriate.
+
+                   We believe adjusted EBITDA is useful to our board of
+   directors, management and investors in evaluating our operating
+   performance for the following reasons:
+                                                                    ·
+   adjusted EBITDA is widely used by investors to measure a company's
+   operating performance without regard to certain items, such as interest
+   expense, income tax expense, depreciation and amortization, stock-based
+   expenses and certain other items, that can vary substantially from
+   company to company and from period to period depending upon their
+   financing and accounting methods, the book value of their assets, their
+   capital structures and the method by which their assets were acquired;
+                                                                      ·
+   securities analysts use adjusted EBITDA as a supplemental measure to
+   evaluate the overall operating performance of companies;
+                                                                     ·
+   because non-cash equity grants made at a certain price and point in
+   time do not necessarily reflect how our business is performing at any
+   particular time, stock-based customer acquisition expense and
+   stock-based compensation expense are not key measures of our core
+   operating performance;
+                                                                       ·
+   because cash-based customer acquisition expense is an item related to
+   the acquisition of IDC and does not reflect how our business is
+   performing at any particular time, cash-based customer acquisition
+   expense is therefore not a key measure of our core operating
+   performance; and
+                                                                       ·
+   because the gain we recorded in connection with the settlement of our
+   litigation with the former stockholders of IDC is an item related to
+   the acquisition of IDC and does not reflect how our business is
+   performing at any particular time.
+
+
+
+   -21-
+     __________________________________________________________________
+
+   [67]Table of Contents
+
+
+
+   (1) The following table presents a reconciliation of net income, the
+   most comparable GAAP measure, to EBITDA and adjusted EBITDA for each of
+   the periods indicated:
+
+
+                             Three Months Ended
+
+
+                              Six Months Ended
+
+
+
+                                  June 30,
+
+
+                                  June 30,
+
+
+
+                                    2010
+
+
+                                    2011
+
+
+                                    2010
+
+
+                                    2011
+
+
+
+                                 (unaudited)
+
+
+                                 (unaudited)
+
+
+
+                               (in thousands)
+
+
+                               (in thousands)
+
+
+
+   Net income
+     $ 1,830     $ 4,754     $ 10,094     $ 15,796
+   Interest income
+       (2 )     (11 )     (3 )     (36 )
+   Interest expense
+       247       56       476       130
+   Income tax expense
+       1,183       1,734       6,350       8,572
+   Depreciation and amortization
+       1,747       1,757       3,373       3,434
+   EBITDA
+       5,005       8,290       20,290       27,896
+   Stock-based and other customer acquisition expense
+       3,508       4,333       5,309       7,421
+   Stock-based compensation expense
+       692       856       1,541       2,160
+   Other income
+       -       (1,500 )     -       (1,500 )
+   Adjusted EBITDA
+     $ 9,205     $ 11,979     $ 27,140     $ 35,977
+                   We define adjusted net income as net income, adjusted
+   to eliminate (a) stock-based compensation expense related to incentive
+   stock option grants and the gain we recorded in connection with the
+   settlement of our litigation with the former stockholders of IDC and
+   (b) after giving effect to tax adjustments, stock-based compensation
+   expense related to non-qualified stock option grants, stock-based
+   customer acquisition expense related to our grant of common stock in
+   connection with our acquisition of EduCard in 2008, cash-based customer
+   acquisition expense related to the acquisition of IDC and amortization
+   expenses related to intangible assets and financing costs. Adjusted net
+   income should not be considered as an alternative to net income,
+   operating income or any other measure of financial performance
+   calculated and presented in accordance with GAAP. Our adjusted net
+   income may not be comparable to similarly titled measures of other
+   organizations because other organizations may not calculate adjusted
+   net income in the same manner as we do. We prepare adjusted net income
+   to eliminate the effect of items that we do not consider indicative of
+   our core operating performance. You are encouraged to evaluate our
+   adjustments and the reasons we consider them appropriate.
+                   We believe adjusted net income is useful to our board
+   of directors, management and investors in evaluating our operating
+   performance for the following reasons:
+                                                                     ·
+   because non-cash equity grants made at a certain price and point in
+   time do not necessarily reflect how our business is performing at any
+   particular time, stock-based customer acquisition expense and
+   stock-based compensation expense are not key measures of our core
+   operating performance;
+                                                                       ·
+   because cash-based customer acquisition expense is an item related to
+   the acquisition of IDC and does not reflect how our business is
+   performing at any particular time, cash-based customer acquisition
+   expense is therefore not key measure of our core operating performance;
+                                                                      ·
+   amortization expenses can vary substantially from company to company
+   and from period to period depending upon their financing and accounting
+   methods, the fair value and average expected life of their acquired
+   intangible assets, their capital structures and the method by which
+   their assets were acquired; and
+                                                                       ·
+   because the gain we recorded in connection with the settlement of our
+   litigation with the former stockholders of IDC is an item related to
+   the acquisition of IDC and does not reflect how our business is
+   performing at any particular time.
+
+
+
+   -22-
+     __________________________________________________________________
+
+   [68]Table of Contents
+
+
+
+   (2)   The following table presents a reconciliation of net income, the
+   most comparable GAAP measure, to adjusted net income for each of the
+   periods indicated:
+
+
+                             Three Months Ended
+
+
+                              Six Months Ended
+
+
+
+                                  June 30,
+
+
+                                  June 30,
+
+
+
+                                    2010
+
+
+                                    2011
+
+
+                                    2010
+
+
+                                    2011
+
+
+
+                                 (unaudited)
+
+                               (in thousands)
+
+
+                                 (unaudited)
+
+                               (in thousands)
+
+
+
+               Net income
+     $ 1,830     $ 4,754     $ 10,094     $ 15,796
+
+               Stock-based and other customer acquisition expense
+       3,508       4,333       5,309       7,421
+               Stock-based compensation expense - ISO
+       373       461       810       888
+               Stock-based compensation expense - NQO
+       319       395       731       1,272
+               Other income
+       -       (1,500 )     -       (1,500 )
+               Amortization of intangibles
+       768       767       1,535       1,535
+               Amortization of finance costs
+       51       18       102       36
+               Total pre-tax adjustments
+       5,019       4,474       8,487       9,652
+               Tax rate
+       38.7 %     38.2 %     38.6 %     38.2 %
+               Tax adjustment (a)
+       1,796       2,106       2,963       3,921
+               Adjusted net income
+     $ 5,053     $ 7,122     $ 15,618     $ 21,527
+   (a)           We have reflected the tax effect of all the pre-tax
+   adjustments except for stock-based compensation expense for incentive
+   stock options which are generally not tax deductible and the gain
+   recorded in connection with the settlement of our litigation with the
+   former stockholders of IDC as the gain is not taxable.
+               The adjusted EBITDA and adjusted net income measures
+   presented in this Quarterly Report on Form 10-Q may not be comparable
+   to similarly titled measures presented by other companies, and may not
+   be identical to corresponding measures used in our various agreements,
+   in particular our credit facility agreement.
+
+
+                           Contractual Obligations
+
+   There have been no substantial changes to our contractual commitments
+   from those disclosed in our annual report on Form 10-K for the year
+   ended December 31, 2010.
+
+                       Off-Balance Sheet Arrangements
+
+   We are not a party to any off-balance sheet arrangements.
+
+
+
+   -23-
+     __________________________________________________________________
+
+   [69]Table of Contents
+
+                        Critical Accounting Policies
+
+   The significant accounting policies and basis of preparation of our
+   consolidated financial statements are described in Note 1, "Business
+   Overview and Summary of Significant Accounting Policies" of our
+   financial statements included in our annual report on Form 10-K for the
+   year ended December 31, 2010. Under accounting principles generally
+   accepted in the United States, we are required to make estimates and
+   assumptions that affect the reported amounts of assets, liabilities,
+   revenues, expenses and disclosure of contingent assets and liabilities
+   in our financial statements. Actual results could differ from those
+   estimates.
+   We believe the judgments, estimates and assumptions associated with the
+   following critical accounting policies have the greatest potential
+   impact on our consolidated financial statements:
+                                   ·
+   Provision for Operational Losses;
+                               ·
+   Stock-based compensation; and
+              ·
+   Income taxes
+   For a complete discussion of these critical accounting policies, refer
+   to "Critical Accounting Policies" within "Item 7 - Management's
+   Discussion and Analysis of Financial Condition and Results of
+   Operations" included within our annual report on Form 10-K for the year
+   ended December 31, 2010. At June 30, 2011, there have been no material
+   changes to any of the Critical Accounting Policies therein.
+
+                      Recent Accounting Pronouncements
+
+   We review new accounting standards to determine the expected financial
+   impact, if any, that the adoption of each such standard will have. The
+   adoption of the following three standards did not have a material
+   impact on our results of operations, cash flows or financial position.
+   In October 2009, the FASB issued Accounting Standards Update, or ASU,
+   No. 2009-13 "Multiple-Deliverable Revenue Arrangements." This ASU
+   establishes the accounting and reporting guidance for arrangements
+   including multiple revenue-generating activities. This ASU provides
+   amendments to the criteria for separating deliverables, measuring and
+   allocating arrangement consideration to one or more units of
+   accounting. The amendments in this ASU also establish a selling price
+   hierarchy for determining the selling price of a deliverable.
+   Significantly enhanced disclosures are also required to provide
+   information about a vendor's multiple-deliverable revenue arrangements,
+   including information about the nature and terms, significant
+   deliverables and its performance within arrangements. The amendments
+   also required providing information about the significant judgments
+   made and changes to those judgments and about how the application of
+   the relative selling-price method affects the timing or amount of
+   revenue recognition. The amendments in this ASU are effective
+   prospectively for revenue arrangements entered into or materially
+   modified in the fiscal years beginning on or after June 15, 2010. We
+   adopted this standard on January 1, 2011.
+   In October 2009, the FASB issued ASU No. 2009-14, "Certain Revenue
+   Arrangements That Include Software Elements." This ASU changes the
+   accounting model for revenue arrangements that include both tangible
+   products and software elements that are "essential to the
+   functionality," and scopes these products out of current software
+   revenue guidance. The new guidance will include factors to help
+   companies determine what software elements are considered "essential to
+   the functionality." The amendments will now subject software-enabled
+   products to other revenue guidance and disclosure requirements, such as
+   guidance surrounding revenue arrangements with multiple-deliverables.
+   The amendments in this ASU are effective prospectively for revenue
+   arrangements entered into or materially modified in the fiscal years
+   beginning on or after June 15, 2010. We adopted this standard on
+   January 1, 2011.
+   In April 2010, the FASB issued ASU No. 2010-17, "Milestone Method of
+   Revenue Recognition," which indicates the criteria that should be met
+   for determining whether the milestone method of revenue recognition
+   is appropriate. Companies can recognize consideration that is
+   contingent upon achievement of a milestone in its entirety as revenue
+   in the period in which the milestone is achieved only if the milestone
+   meets all criteria to be considered substantive. This ASU was effective
+   for fiscal years beginning on or after June 15, 2010. We adopted this
+   standard on January 1, 2011.
+
+
+
+   -24-
+     __________________________________________________________________
+
+   [70]Table of Contents
+
+   In June 2011, the FASB issued ASU No. 2011-05, "Comprehensive Income
+   (Topic 220)--Presentation of Comprehensive Income" which requires an
+   entity to present the total of comprehensive income, the components of
+   net income, and the components of other comprehensive income either in
+   a single continuous statement of comprehensive income or in two
+   separate but consecutive statements. This accounting standard update
+   eliminates the option to present the components of other comprehensive
+   income as part of the statement of equity and is effective for fiscal
+   years beginning after December 15, 2011.  This accounting standard
+   update is not expected to have a significant impact on our consolidated
+   financial statements.
+   In May 2011, the FASB issued ASU No. 2011-04, "Amendments to Achieve
+   Common Fair Value Measurement and Disclosure Requirements in U.S. GAAP
+   and International Financial Reporting Standards", which provides a
+   consistent definition of fair value and ensures that the fair value
+   measurement and disclosure requirements are similar between U.S. GAAP
+   and International Financial Reporting Standards. ASU 2011-04 changes
+   certain fair value measurement principles and enhances the disclosure
+   requirements particularly for level 3 fair value measurements. ASU
+   2011-04 is effective for interim and annual periods beginning after
+   December 15, 2011. We are currently evaluating the impact of adopting
+   ASU 2011-04, but believe there will be no significant impact on our
+   consolidated financial statements.
+   In December 2010, the FASB issued amended guidance to clarify the
+   acquisition date that should be used for reporting pro-forma financial
+   information for business combinations. If comparative financial
+   statements are presented, the pro-forma revenue and earnings of the
+   combined entity for the comparable prior reporting period should be
+   reported as though the acquisition date for all business combinations
+   that occurred during the current year had been completed as of the
+   beginning of the comparable prior annual reporting period. The
+   amendments in this guidance are effective prospectively for business
+   combinations for which the acquisition date is on or after January 1,
+   2011. There will be no impact in the consolidated financial results as
+   the amendments relate only to additional disclosures.
+   In December 2010, the FASB issued amendments to the guidance on
+   goodwill impairment testing. The amendments modify Step 1 of the
+   goodwill impairment test for reporting units with zero or negative
+   carrying amounts. For those reporting units, an entity is required to
+   perform Step 2 of the goodwill impairment test if it is more likely
+   than not that a goodwill impairment exists. In making that
+   determination, the guidance states that an entity should consider
+   whether there are any adverse qualitative factors indicating that an
+   impairment may exist. The amendments are effective for fiscal years and
+   interim periods beginning January 1, 2011 and are not expected to have
+   a material impact in the consolidated financial statements.
+   Item 3.                                Quantitative and Qualitative
+   Disclosures About Market Risk
+   Our principal market risk relates to interest rate sensitivity, which
+   is the risk that future changes in interest rates will reduce our net
+   income or net assets. There have been no material changes in our
+   principal market risk exposures from the information disclosed in our
+   annual report on Form 10-K for the year ended December 31, 2010.
+   In addition, we receive processing fees paid from our bank partner,
+   based on prevailing interest rates and the total deposits held in our
+   OneAccounts. Since 2008, fees paid by our bank partner have been
+   relatively small because of historically low interest rates. A change
+   in interest rates would affect the amount of processing fees that we
+   earn and therefore would have an effect on our revenue, cash flows and
+   results of operations.
+
+
+
+   -25-
+     __________________________________________________________________
+
+   [71]Table of Contents
+
+   Item 4.                          Controls and Procedures
+   Our management, with the participation of our Chief Executive Officer
+   and Chief Financial Officer, evaluated the effectiveness of our
+   disclosure controls and procedures (as defined in Rules 13a-15(e) and
+   15d-15(e) under the Securities Exchange Act of 1934, as amended, or the
+   Exchange Act) as of June 30, 2011. Based on this evaluation, our Chief
+   Executive Officer and Chief Financial Officer concluded that, as of
+   June 30, 2011, our disclosure controls and procedures were effective to
+   provide reasonable assurance that information is accumulated and
+   communicated to our management, including our Chief Executive Officer
+   and Chief Financial Officer, as appropriate to allow timely decisions
+   regarding required disclosure, and ensure that information required to
+   be disclosed in the reports we file or submit under the Exchange Act is
+   recorded, processed, summarized and reported, within the time periods
+   specified in the SEC's rules and forms.
+   There has been no change in our internal controls over financial
+   reporting during the quarter ended June 30, 2011 identified in
+   connection with the evaluation required by Rule 13a-15(d) and 15d-15(d)
+   of the Exchange Act that occurred during the period covered by this
+   report that has materially affected, or is reasonable likely to
+   materially affect, our internal controls over financial reporting.
+
+                         PART II - OTHER INFORMATION
+
+   Item 1.                                Legal Proceedings
+   On June 22, 2010, Higher One, Inc., or HOI, provided notice and a
+   certificate of claim for indemnity under the Stock Purchase Agreement
+   by and among us and the former stockholders of Informed Decisions
+   Corporation, or IDC, dated November 19, 2009, arising from certain
+   misrepresentations and breaches of warranty. At the same time, we
+   deposited $8.25 million, equal to the remaining balance of the
+   post-closing payments, with an escrow agent.  Separately, the former
+   stockholders of IDC filed a complaint against HOI in the United States
+   District Court for the Northern District of California, or the
+   Complaint, on July 20, 2010, disputing that misrepresentations were
+   made and that warranties were breached; alleging breach of contract and
+   anticipatory breach; and seeking a declaratory judgment ordering that
+   the post-closing payments be made in accordance with the schedule set
+   forth in the Stock Purchase Agreement.
+   On April 25, 2011, HOI and the former stockholders of IDC agreed to a
+   settlement, the material terms of which are as follows: (a) $2 million
+   of the amount held in escrow, plus pro-rated interest, was to be paid
+   to HOI; (b) $6.25 million of the amount held in escrow, plus pro-rated
+   interest, was to be paid to the former stockholders; and (c) HOI and
+   the former stockholders generally and mutually released each other from
+   all past and future claims, known and unknown, arising out of the stock
+   purchase agreement and related transition services agreements between
+   HOI and each of the former stockholders, relating to the operation or
+   sale of IDC, including all indemnification and payment obligations,
+   with the exception of certain rights, obligations and claims.  The
+   amount held in escrow was distributed to HOI and the former
+   stockholders of IDC in accordance with the terms of the settlement
+   agreement in May 2011.
+   We recorded the impact of the settlement agreement in the quarter
+   ending June 30, 2011.  The $2 million returned from escrow to us was
+   recorded as other income of $1.5 million, reflecting a payment made
+   under the indemnification provisions of the stock purchase agreement
+   and a reduction of general and administrative expenses of $0.5 million,
+   reflecting the recovery of certain legal costs incurred for the
+   litigation.
+   Except as described above, there have been no material developments in
+   our legal proceedings since we filed our annual report on Form 10-K for
+   the year ended December 31, 2010.
+
+
+
+   -26-
+     __________________________________________________________________
+
+   [72]Table of Contents
+
+   Item 1A.                      Risk Factors
+    There have been no material changes in our risk factors from those
+   disclosed in our annual report on Form 10-K for the year ended December
+   31, 2010, except as follows:
+   Reviews and enforcement actions by regulatory authorities under banking
+   and consumer protection laws and regulations may result in changes to
+   our business practices or may expose us to the risk of fines,
+   restitution and litigation.
+   Our operations and the operations of our bank partner are subject to
+   the jurisdiction and examination of federal, state and local regulatory
+   authorities, including the FDIC, which is our bank partner's primary
+   federal regulator. Our business practices, including the terms of our
+   products, are reviewed and approved by our banking partner and subject
+   to both periodic and special reviews by such regulatory authorities,
+   which can range from investigations into specific consumer complaints
+   or concerns to broader inquiries into our practices generally. We and
+   our bank partner are subject to ongoing and routine examination by the
+   FDIC. If, as part of an examination or review, the regulatory
+   authorities conclude that we are not complying with applicable laws or
+   regulations, they could request or impose a wide range of remedies,
+   including, but not limited to, requiring changes to the terms of our
+   products (such as decreases in fees), the imposition of fines or
+   penalties or the institution of enforcement proceedings or other
+   similar actions against us alleging that our practices constitute
+   unfair or deceptive acts or practices. As part of an enforcement
+   action, the regulators can seek restitution for affected customers and
+   impose civil money penalties. In addition, negative publicity relating
+   to any specific inquiry or investigation or any related fine could
+   adversely affect our stock price; our relationships with various
+   industry participants; or our ability to attract new and retain
+   existing clients, which could have a material adverse effect on our
+   business, financial condition and results of operations.
+   Following a recently conducted compliance examination, the New York
+   Regional Office of the FDIC notified us that it was prepared to
+   recommend to the Director of FDIC Supervision that an enforcement
+   action be taken against us for alleged violations of certain applicable
+   laws and regulations principally relating to our compliance management
+   system and policies and practices for past overdraft charging on
+   persistently delinquent accounts, collections and transaction error
+   resolution. Any such enforcement action could result in an order to pay
+   restitution and civil money penalties. We have responded to the FDIC's
+   notification, but the process is ongoing and there can be no assurances
+   as to the outcome of this process. An action instituted against us that
+   results in significant changes to our practices, the imposition on us
+   of fines or penalties, or an obligation for us to pay restitution or
+   civil money penalties could have a material adverse effect on our
+   business, financial condition and results of operations.
+   Fees for financial services are subject to increasingly intense
+   legislative and regulatory scrutiny, which could have a material
+   adverse effect on our business, financial condition, results of
+   operations and prospects for future growth.
+   In 2010, 2009 and 2008, approximately 78%, 88% and 85% of our revenue
+   was generated from interchange fees, ATM fees, non-sufficient funds
+   fees, other banking services fees and convenience fees. These fees, as
+   well as the financial services industry in general, have undergone or
+   may undergo substantial changes in the near future. These changes could
+   have a material adverse effect on our business, financial condition,
+   results of operations and prospects for future growth.
+   Effective July 1, 2010, the Federal Reserve Board amended Regulation E
+   to limit the ability of financial institutions to assess an overdraft
+   fee for paying ATM and one-time debit card transactions that overdraw a
+   consumer's account, unless the consumer affirmatively consents, or opts
+   in, to the institution's payment of overdrafts for these services. In
+   the absence of such a consent, a financial institution may not assess
+   an overdraft fee on a consumer for an ATM or one-time debit card
+   transaction.
+
+
+
+   -27-
+     __________________________________________________________________
+
+   [73]Table of Contents
+
+   On July 21, 2010, the Dodd-Frank Wall Street Reform and Consumer
+   Protection Act, or the Act, was signed into law. The Act increases the
+   already substantial regulation and oversight of the financial services
+   industry and imposes restrictions on the ability of firms within the
+   industry, including us, to conduct business consistent with historical
+   practices. For example, under the Act, a Consumer Financial Protection
+   Bureau, or the Bureau, has been established to regulate any person
+   engaged in a "financial activity" in connection with a consumer
+   financial product or service, including those, such as us, that process
+   financial services products and services. The Bureau has assumed
+   regulatory authority for many of the laws to which we and our partner
+   bank, The Bancorp Bank, are subject and may have direct supervisory
+   authority over us.  The Bureau also will have authority to issue and
+   enforce regulations relating to consumer financial protection designed
+   to prevent unfair, deceptive, and abusive practices in the offering of
+   consumer financial products.
+   The Act also requires changes to be made to the manner in which
+   merchants accept and process certain debit- and credit-card
+   transactions. Specifically, the Act, subject to certain exemptions,
+   requires the Federal Reserve to impose limits on debit card interchange
+   fees tied to the cost of processing the transaction, which may have the
+   result of decreasing revenue to debit card issuers and processors. On
+   June 29, 2011, the Federal Reserve Board issued its final rule
+   implementing these limits on debit card interchange fees that, among
+   other things would limit interchange fees on debit card transactions to
+   a maximum of 21 cents per transaction plus 5 basis points of the
+   transaction amount, and up to an additional $0.01 to cover investments
+   in fraud prevention measures.  At the same time, the Federal Reserve
+   approved an interim final rule that allows for an upward adjustment of
+   no more than 1 cent to an issuer's debit card interchange fee if the
+   issuer develops and implements policies and procedures reasonably
+   designed to achieve the fraud-prevention standards set out in the
+   interim final rule.  These limits become effective October 1, 2011.  In
+   accordance with the Act, issuers that, together with their affiliates,
+   have less than $10 billion in assets are exempt from the debit card
+   interchange fee standards, although they are subject to the
+   prohibitions on network exclusivity and routing restrictions.
+   Nevertheless, it is anticipated that smaller issuers, such as The
+   Bancorp Bank, may also be impacted. Some federal, state, and local
+   government-administered payment programs that use debit cards are
+   exempt from this interchange fee restriction. Additionally, the Act
+   permits merchants to offer a discount or other incentive to encourage
+   use of one form of payment over another. Furthermore, the Act, as
+   implemented by the Federal Reserve Board's final rule, prohibits an
+   issuer or payment card network from restricting the number of payment
+   card networks over which an electronic debit transaction may be
+   processed to fewer than two unaffiliated networks, or restricting the
+   ability of a merchant to direct the routing of electronic debit
+   transactions over any of the networks that an issuer has enabled to
+   process the electronic debit transactions. The Act also allows
+   merchants to set minimum purchase thresholds for credit card
+   transactions, provided such thresholds do not exceed $10, and it
+   permits institutions of higher education and federal agencies - which
+   constitute many of our clients - to impose maximum dollar amounts for
+   credit-card purchases. Individual state legislatures are also reviewing
+   interchange fees, and legislators in a number of states have proposed
+   bills that purport to limit interchange fees or merchant discount rates
+   or to prohibit their application to portions of a transaction.
+   The scope and impact of many of the Act's provisions, including those
+   summarized above, will continue to be determined through the rule
+   making process. As a result, we cannot predict the ultimate impact of
+   the Act on us or The Bancorp Bank at this time, nor can we predict the
+   impact or substance of other future legislation or regulation. However,
+   we believe that the Act, other recent changes in regulation, including
+   the Regulation E changes summarized above, and legislation under
+   consideration by the states, could affect how we and our bank partner
+   operate by significantly reducing the interchange fees, ATM fees,
+   non-sufficient fund fees, other banking services fees and convenience
+   fees charged in respect of our services and that drive our financial
+   results. These regulatory and legislative changes could also increase
+   our costs, impede the efficiency of our internal business processes or
+   limit our ability to pursue business opportunities in an efficient
+   manner. The occurrence of any of these risks could materially and
+   adversely affect our business, financial condition and results of
+   operations.
+   Item 2.                      Unregistered Sales of Equity Securities
+   and Use of Proceeds
+   None.
+
+
+
+   -28-
+     __________________________________________________________________
+
+   [74]Table of Contents
+
+   Item 3.                      Defaults Upon Senior Securities
+   None.
+   Item 5.                      Other Information
+   Effective August 2, 2011, Shamez Kanji resigned from the board of
+   directors of Higher One Holdings, Inc.  The resignation did not involve
+   any disagreement on any matter relating to the operations, policies or
+   practices of Higher One Holdings, Inc.  Mr. Kanji served on the audit
+   and compensation committees of the board of the directors.  Effective
+   August 2, 2011, Charles Moran was elected to serve as a member of the
+   audit committee and Patrick McFadden was elected to serve as a member
+   of the compensation committee.
+
+   At our annual meeting of stockholders held on May 18, 2011, our
+   stockholders voted to recommend that a non-binding advisory vote on
+   executive compensation be held every three years.  In light of this
+   recommendation, we have decided to hold a non-binding advisory vote on
+   executive compensation every three years until the next required vote
+   on the frequency of a stockholder vote on executive compensation.
+   Item 6.                                Exhibits
+
+   Exhibit
+
+   Number
+
+   Description
+   31.1
+
+   Certificate of Chief Executive Officer pursuant to Section 302 of the
+   Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350).
+   31.2
+
+   Certificate of Chief Financial Officer pursuant to Section 302 of the
+   Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350).
+   32.1
+
+   Certificate of Chief Executive Officer pursuant to Section 906 of the
+   Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350).
+   32.2
+
+   Certificate of Chief Financial Officer pursuant to Section 906 of the
+   Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350).
+    (1)
+
+   The material contained in Exhibit 32.1 and Exhibit 32.2 is not deemed
+   "filed" with the SEC and is not to be incorporated by reference into
+   any filing of the Company under the Securities Act of 1933 or the
+   Securities Exchange Act of 1934, whether made before or after the date
+   hereof and irrespective of any general incorporation language contained
+   in such filing, except to the extent that the registrant specifically
+   incorporates it by reference.
+
+
+
+   -29-
+     __________________________________________________________________
+
+   [75]Table of Contents
+
+   SIGNATURES
+
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934,
+   the registrant has duly caused this report to be signed on its behalf
+   by the undersigned thereunto duly authorized.
+
+
+   Date: August 3, 2011
+
+
+   Higher One Holdings, Inc.
+
+
+   /s/ Dean Hatton
+
+   Dean Hatton
+
+   President and Chief Executive Officer
+   (Duly authorized officer and principal executive officer)
+
+
+   /s/ Mark Volchek
+
+   Mark Volchek
+
+   Chief Financial Officer
+   (Duly authorized officer and principal financial officer)
+
+
+
+   -30-
+     __________________________________________________________________
+
+References
+
+   1. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#parti
+   2. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#parti
+   3. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitemi
+   4. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitemi
+   5. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitemi
+   6. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#balancesheet
+   7. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#balancesheet
+   8. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#statementofoperations
+   9. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#statementofoperations
+  10. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#changesinequity
+  11. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#changesinequity
+  12. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#cashflows
+  13. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#cashflows
+  14. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#footnotes
+  15. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#footnotes
+  16. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitem2
+  17. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitem2
+  18. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitem2
+  19. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitem3
+  20. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitem3
+  21. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitem3
+  22. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitem4
+  23. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitem4
+  24. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiitem4
+  25. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partii
+  26. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partii
+  27. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitemi
+  28. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitemi
+  29. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitemi
+  30. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem1a
+  31. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem1a
+  32. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem1a
+  33. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem2
+  34. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem2
+  35. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem2
+  36. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem3
+  37. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem3
+  38. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem3
+  39. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem5
+  40. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem5
+  41. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem5
+  42. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem6
+  43. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem6
+  44. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#partiiitem6
+  45. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#signatures
+  46. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#signatures
+  47. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  48. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  49. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  50. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  51. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  52. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  53. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  54. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  55. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  56. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  57. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  58. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  59. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  60. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  61. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  62. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  63. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  64. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  65. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  66. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  67. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  68. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  69. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  70. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  71. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  72. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  73. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  74. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
+  75. file://localhost/Users/ckl/Documents/development/secdiff/data/one_10Q.html#toc
