@@ -5,7 +5,7 @@ require "net/http"
 
 gem 'htmlentities'
 gem 'nokogiri'
-
+gem "pg", :group => :production
 gem 'rails', '3.1.1'
 
 # Bundle edge Rails instead:
