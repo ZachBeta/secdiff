@@ -1,3 +1,19 @@
+<script type="text/javascript">
+	$(document).ready(function() {
+		var d= new diff_match_patch();
+		d.Diff_Timeout=15;
+		
+		var text1 = $('#first').text();
+		var text2 = $('#second').text();
+		var diffs=d.diff_main(text1,text2);
+		
+		//var diffs=d.diff_main($('#first').text(),$('#second').text());
+		
+		d.diff_cleanupSemantic(diffs);
+		var out=d.diff_prettyHtml(diffs);
+		$('#content').html(out);
+	});
+</script>
 <div id="page">
 	<div id="content"></div>
 	<div id="first" style="display: none;"><%= raw(@response1) %></div>
