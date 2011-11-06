@@ -4,7 +4,7 @@
 
 $(document).ready(function() {
 	var d= new diff_match_patch;
-	var diffs=d.diff_main("txasdfasdt1","txt2");
+	var diffs=d.diff_main($('#first').html(),$('#second').html());
 	d.diff_cleanupSemantic(diffs);
 	var out=d.diff_prettyHtml(diffs);
 	$('#content').html(out);
